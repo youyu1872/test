@@ -4,4 +4,4 @@
 
 ## test 1
 
-cdh is learning how to use github.
+cdh has learned how to use github.
